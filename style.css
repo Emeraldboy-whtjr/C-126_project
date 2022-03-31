@@ -5,17 +5,24 @@ body{
 }
 
 #heading{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 20px;
     font-weight: bold;
-    border-color: white;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
     box-shadow: 3px 5px 5px 3px white;
+    background-color: white;
 }
 
 #lbl{
-    color: white;
+    color: rgb(0, 0, 0);
     box-shadow: 3px 3px 3px 3px red;
     margin-top: 20px;
+    background-color: white;
+    font-weight: 600;
+    border-width: 2px;
+    border-color: black;
+    font-size: medium;
 }
 
 #songPlayed{
